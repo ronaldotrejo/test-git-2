@@ -101,8 +101,8 @@ export default function Home() {
     //   </footer>
     // </div>
     <HStack>
-      <Button>Click me</Button>
-      <Button>Click me</Button>
+      <Button>Fuck me</Button>
+      <Button>Fuck me</Button>
     </HStack>
   );
 }
